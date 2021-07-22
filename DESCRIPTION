@@ -1,0 +1,11 @@
+Package: rabtools
+Type: Package
+Title: Rab Tools
+Version: 0.1.0
+Author: Johannes Rabenschlag
+Maintainer: Johannes Rabenschlag <rabtools@rabenschlag.eu>
+Description: A collection of function I wrote and like to use in multiple projects 
+License: GNU GPLv3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
