@@ -18,5 +18,5 @@ Default value or content of environment variable
 Use default value if environment variable is empty
 }
 \examples{
-locale <- env_default(env = "locale", default = "e_DE.utf8")
+locale <- env_default(env = "locale", default = "de_DE.utf8")
 }
